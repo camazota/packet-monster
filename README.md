@@ -21,9 +21,11 @@
 ---
 
 ## Kullanım / Usage
-
+[TR]
 1. `packet_monster.exe` yi yönetici olarak çalıştırın.
-   Run as Administrator: Right-click → "Run as administrator"
+
+[ENG]
+1. Run as Administrator: Right-click → "Run as administrator"
 
 ---
 
